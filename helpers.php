@@ -1,8 +1,8 @@
 <?php
 
 /**
- * This function drops an element from an array by index
- * without modifying the original array
+ * This function drops an element from an array by index without modifying the original array
+ * It should work the same as array_splice() but the original array stays the same
  * @param array $array
  * @param mixed $key
  * @return array
